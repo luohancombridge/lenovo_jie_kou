@@ -1,0 +1,2 @@
+https://www.paymax.cc/merchant-api/v1/charges
+##

@@ -1,0 +1,4 @@
+10.199.164.164
+root
+Luohan0038
+/apps/logs/log_receiver/osp-vis-price.api.vip.com/cooperateService
